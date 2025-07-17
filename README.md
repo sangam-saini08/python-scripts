@@ -54,3 +54,8 @@ A script that checks the strength of a password and suggests improvements if the
    git clone https://github.com/your-username/python-scripts.git
    cd python-scripts
    ```
+2. Run any project:
+   ```bash
+   python message_enhancer.py
+   ```
+   
