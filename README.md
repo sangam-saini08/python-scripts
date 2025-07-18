@@ -42,6 +42,18 @@ A script that checks the strength of a password and suggests improvements if the
 
 ---
 
+### 📌 `project4_terminal_timer_clock`
+
+A command-line Timer Clock Gives you Timer with Progress Bar.
+
+**Features:**
+
+- Real-time Countdown.
+- Dynamic Progress Bar.
+- Sound Alert on completion.
+
+---
+
 ## 🛠️ Requirements
 
 - Python 3.x
@@ -58,4 +70,3 @@ A script that checks the strength of a password and suggests improvements if the
    ```bash
    python message_enhancer.py
    ```
-   
