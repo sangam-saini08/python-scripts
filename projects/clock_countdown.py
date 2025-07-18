@@ -23,6 +23,7 @@ reverse_index = 10
 percentage = 110
 
 print("\n🔔 Timer Started...")
+
 for remaining in range(seconds,-1,-1):
     minutes,secs = divmod(remaining,60)
     time_formate = f"{minutes:02}:{secs:02}"
@@ -35,3 +36,4 @@ for remaining in range(seconds,-1,-1):
     time.sleep(1)
 
 print("🔕 Times Up--")
+print("\a")
