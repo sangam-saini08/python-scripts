@@ -9,8 +9,8 @@ JSON_FILE = "json_data.json"
 
 def load_csv_file(filename):
     if not os.path.exists(filename):
-        return []
         print("No Data Found in CSV FILE")
+        return []
 
     with open(filename,"r",encoding="utf-8") as f:
         return list(csv.DictReader(f))  
