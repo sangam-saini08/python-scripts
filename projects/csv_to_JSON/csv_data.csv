@@ -1,0 +1,11 @@
+id,name,email,location,is_active
+1,Amit Sharma,amit.sharma@example.com,Delhi,true
+2,Sneha Patel,sneha.patel@example.com,Mumbai,true
+3,Rajiv Mehta,rajiv.mehta@example.com,Ahmedabad,false
+4,Priya Nair,priya.nair@example.com,Kochi,true
+5,Vikas Gupta,vikas.gupta@example.com,Jaipur,false
+6,Anjali Verma,anjali.verma@example.com,Chandigarh,true
+7,Ravi Kumar,ravi.kumar@example.com,Patna,true
+8,Kiran Joshi,kiran.joshi@example.com,Pune,false
+9,Deepika Reddy,deepika.reddy@example.com,Hyderabad,true
+10,Manoj Das,manoj.das@example.com,Bhubaneswar,true
